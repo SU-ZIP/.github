@@ -28,9 +28,9 @@
 
 <h2>시스템 구성</h2>
 <h3>IA</h3>
-<p>이미지 삽입 예정</p>
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/ce346805-2120-4a0e-8847-0b1bbf1da9cb" alt="IA">
 <h3>Flow Chart</h3>
-<p>이미지 삽입 예정</p>
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/f41fb275-b461-46b2-aa29-6ec2f1f61ecf" alt="Flowchart">
 <h3>구조도</h3>
 <p>이미지 삽입 예정</p>
 
