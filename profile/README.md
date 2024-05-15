@@ -11,22 +11,30 @@
 <p>수집은 일기를 분석하여 감정을 추출하고, 사용자에게 해당 감정과 관련된 다양한 인사이트를 제공하는 웹 서비스입니다</p>
 
 
-개발 환경: Windows. Mac OS
-개발 도구: IntelliJ, VSCode, Colab, AWS, MySQL
-개발 언어: TypeScript, Python, Java
-프레임워크 : React, Spring Boot, Spring Data JPa, FastAPI
-
 <h2>기술 스택</h2>
 <h3>개발환경</h3>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
 
+<h3>개발도구</h3>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Google%20Colab-f9ab00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
-
-<h3>개발도구</h3> 
 <h3>개발언어</h3> 
-<h3>프레임워크</h3> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
+<h3>프레임워크</h3> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
+<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot">
+<img src="https://img.shields.io/badge/SpringJPA-%236DB33F.svg?style=for-the-badge" alt="SpringJPA">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 
 <br/>
 <br/>
