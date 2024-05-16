@@ -1,6 +1,8 @@
 <div align="center">
 <a href="http://mysuzip.com">
-    <img src="https://github.com/SU-ZIP/.github/assets/66839009/ea46ffb6-4a54-4948-ac76-f79c9deb5185.png" width="150" height="150">
+    <img src="https://github.com/SU-ZIP/.github/assets/66839009/f84e4321-44e6-49db-ad4f-b427b78b7327.png">
+    <br/><br/>
+    <img src="https://github.com/SU-ZIP/.github/assets/66839009/ea46ffb6-4a54-4948-ac76-f79c9deb5185.png" width="120" height="120">
     <p>Suzip your days, emotions and minds...</p>
 </a>
 
