@@ -14,8 +14,7 @@
 
 <br/><br/><br/>
 
-<p>요기에 실제 구현 화면이 들어가도 좋을 거 같아요~ 아님 어떠한 요약 이미지..?</p>
-
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/84161cc2-3d17-49b7-9799-17d76846f493">
 <br/><br/><br/>
 
 <h2>프로젝트 개요</h2>
@@ -30,11 +29,11 @@
 
 <h2>시스템 구성</h2>
 <h3>IA</h3>
-<img src="https://github.com/SU-ZIP/.github/assets/66839009/ce346805-2120-4a0e-8847-0b1bbf1da9cb" alt="IA">
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/cf4c5ca3-14f1-4759-a35e-c8af2b3ffa24" alt="IA">
 <h3>Flow Chart</h3>
-<img src="https://github.com/SU-ZIP/.github/assets/66839009/f41fb275-b461-46b2-aa29-6ec2f1f61ecf" alt="Flowchart">
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/9d1625ce-e657-4047-9fdd-39e566dec814" alt="Flowchart">
 <h3>구조도</h3>
-<img src="https://github.com/SU-ZIP/.github/assets/66839009/0246ba92-56d2-4667-9895-cf5f3f5ab9b4" alt="Structure Diagram">
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/8c5f5248-b9fd-4b3a-b0b3-87c6c101299a" alt="Structure Diagram">
 
 <br/><br/>
 
