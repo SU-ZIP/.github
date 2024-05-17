@@ -34,7 +34,7 @@
 <h3>Flow Chart</h3>
 <img src="https://github.com/SU-ZIP/.github/assets/66839009/f41fb275-b461-46b2-aa29-6ec2f1f61ecf" alt="Flowchart">
 <h3>구조도</h3>
-<p>이미지 삽입 예정</p>
+<img src="https://github.com/SU-ZIP/.github/assets/66839009/0246ba92-56d2-4667-9895-cf5f3f5ab9b4" alt="Structure Diagram">
 
 <br/><br/>
 
