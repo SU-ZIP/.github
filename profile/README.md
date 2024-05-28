@@ -79,7 +79,7 @@
 
 <div align="center">
     
-|![소연](https://i.namu.wiki/i/y5E58wWzNW6B0-HaDdi0ALMKza7LusAxL-xmfcivm_Nr4pW6Z5KVzcJQQyz38L78_fOfWWjdrXWSOnBWd4p3VqcU64IkXeIVutIwvvHqe1GVTgbI5Kzdx1xhCbtCN-DOiBkzsRsRopJOV8EAkwk7rA.webp)|![다현](https://i.namu.wiki/i/blSboq0MvSc-piLrPlKFLUoyFdv4JtcandLh0s4MT8PlULXLNFwGbNta13DWL1gFvVyU_UkWJ1rqkhGCXB-zS1TN94Gm1oQOUmlxGmdxxCvGn_HRjgBfQdgk0Q1oF351S2BURbsg1EOjfHeraZ8HeA.webp)|![경빈](https://i.namu.wiki/i/mAQ7anDVgJ_U1Iu9u9YT0lumUOAJzuzDctaaeU55QPiGKNcLUP42AcdBJcc7CNNMtDwgybWMFuih2gzbB8viJLIjO4S3h8GCjjUnlFPosaiyRpKsBrBqfYGu6pYzoM9ZGpjfaF8l-m7mbSTiXI3hBA.webp)|![수빈](https://i.namu.wiki/i/JbOrbG8FALv5C6Ocm16PEl4jJ3Ql_HiBVLGkNLSRlUreREtIWIuf4oax5-sk27BBqUHAfkybOWytTn6I8_UAq7tI7WYdUlEKlVxI8xb62L2X10fy0qFlAX7sq2p7IRj5NJReNVkJDv5r2J78_LjmJw.webp)|
+|![소연](https://i.namu.wiki/i/y5E58wWzNW6B0-HaDdi0ALMKza7LusAxL-xmfcivm_Nr4pW6Z5KVzcJQQyz38L78_fOfWWjdrXWSOnBWd4p3VqcU64IkXeIVutIwvvHqe1GVTgbI5Kzdx1xhCbtCN-DOiBkzsRsRopJOV8EAkwk7rA.webp)|![다현](https://i.namu.wiki/i/blSboq0MvSc-piLrPlKFLUoyFdv4JtcandLh0s4MT8PlULXLNFwGbNta13DWL1gFvVyU_UkWJ1rqkhGCXB-zS1TN94Gm1oQOUmlxGmdxxCvGn_HRjgBfQdgk0Q1oF351S2BURbsg1EOjfHeraZ8HeA.webp)|![경빈](https://i.namu.wiki/i/mAQ7anDVgJ_U1Iu9u9YT0lumUOAJzuzDctaaeU55QPiGKNcLUP42AcdBJcc7CNNMtDwgybWMFuih2gzbB8viJLIjO4S3h8GCjjUnlFPosaiyRpKsBrBqfYGu6pYzoM9ZGpjfaF8l-m7mbSTiXI3hBA.webp)|![수빈](https://i.namu.wiki/i/iPtlUOnpbDEAlM_PUTnP8C_mLSWeWaKkKi8RxSqcbxcM7daCL2DMTcrgrTza0B2Eqy-7_3xywNWTgXs7MzZGt1eTCkjDuKFdxvtyUGHpkjyiMiFDREZ2WBUT_Kv5Ra-l4HK2puyThWKiqwlvV_TqQg.webp)|
 |:---:|:---:|:---:|:---:|
 |[배소연](https://github.com/hypoxisaurea)|[김다현](https://github.com/daahyunk)|[민경빈](https://github.com/walesmin)|[장수빈](https://github.com/longrunBiin)|
 |Frontend/AI|Frontend/Design|Backend/AI|Backend|
